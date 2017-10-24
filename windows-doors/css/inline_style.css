@@ -1,0 +1,114 @@
+.l-footer-columns {
+  background-image: url('../../../../../themes.webdevia.com/windows-doors/wp-content/uploads/2014/08/footer-bg-.jpg');
+  background-size: cover;
+
+}
+
+body, body p {
+  font-family: 'Lato';
+  font-style: normal;
+  font-size: 15px;
+}
+
+h1, h2, h3, h4, h5, h6, .menu-list a {
+  font-family: 'Archivo Narrow';
+  font-weight: 700;
+}
+
+.top-bar-section ul.menu > li > a:not(.button) {
+  font-family: 'Archivo Narrow';
+  font-weight: 400;
+}
+
+.primary-color_bg, .square-img > a:before,
+.boxes .box > a:before, .boxes .box .flipper a:before,
+.doors_onepost .title-block span, .one_post_box .box_image .titel_icon .box_icon,
+.one_post_box .more, .boxes .box-container > a:before,
+.boxes .box-container .flipper a:before,
+.boxes.small.layout-5 .box-icon, .boxes.small.layout-5-inverse .box-icon,
+.boxes.small.layout-6 .box-icon i.fa, .carousel_blog span.tag a,
+.wd-carousel-container .carousel-icon i, .search_box input[type='submit'],
+table thead, table tfoot, .block-block-17, .row.call-action, .blog-info,
+button.dark:hover, button.dark:focus, .button.dark:hover, .button.dark:focus,
+span.wpb_button:hover, span.wpb_button:focus, .sidebar #searchsubmit,
+.woocommerce .widget_price_filter .ui-slider .ui-slider-range,
+.woocommerce-page .widget_price_filter .ui-slider .ui-slider-range,
+.products .product .button,
+.woocommerce #content input.button.alt, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt,
+.woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce-page #content input.button.alt,
+.woocommerce-page #respond input#submit.alt, .woocommerce-page a.button.alt,
+.woocommerce-page button.button.alt, .woocommerce-page input.button.alt,
+.woocommerce #content input.button:hover, .woocommerce #respond input#submit:hover,
+.woocommerce a.button:hover, .woocommerce button.button:hover,
+.woocommerce input.button:hover, .woocommerce-page #content input.button:hover,
+.woocommerce-page #respond input#submit:hover, .woocommerce-page a.button:hover,
+.woocommerce-page button.button:hover, .woocommerce-page input.button:hover,
+.woocommerce span.onsale, .woocommerce-page span.onsale,
+.woocommerce-page button.button, .widget_product_search #searchsubmit, .widget_product_search #searchsubmit:hover,
+.sidebar #searchsubmit, .l-footer-columns #searchsubmit, .page-numbers.current, .post-password-form input[type='submit'],
+.page-links a:hover, .request-quote.right, input.wpcf7-submit, div.vc_tta-color-grey.vc_tta-style-classic .vc_tta-panel.vc_active .vc_tta-panel-heading,
+div.vc_tta-color-grey.vc_tta-style-classic .vc_tta-tab.vc_active > a, .sidebar-left,
+.blog-post .sticky .blog-info, .team-member-slider .owl-dots .owl-dot.active span, .team-member-slider .owl-theme .owl-dots .owl-dot:hover span,
+.team-member-carousel .owl-dots .owl-dot.active span, .team-member-carousel .owl-theme .owl-dots .owl-dot:hover span,
+#comments ul.commentlist li.comment section.comment .comment-reply-link, #comments ol.commentlist li.comment section.comment .comment-reply-link {
+  background: #265fb4;
+}
+
+.blog-post .sticky .blog-info {
+  background: #265fb4 repeating-linear-gradient(-55deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) 10px, rgba(0, 0, 0, 0) 10px, rgba(0, 0, 0, 0) 20px) repeat scroll 0 0;
+}
+
+.sidebar #s:active,
+.sidebar #s:focus, .boxes.layout-3 .box-icon, div.vc_tta-color-grey.vc_tta-style-classic .vc_tta-panel.vc_active .vc_tta-panel-heading,
+div.vc_tta-color-grey.vc_tta-style-classic .vc_tta-tab.vc_active > a {
+  border-color: #265fb4;
+}
+
+div.vc_tta-color-grey.vc_tta-style-classic .vc_tta-tab > a {
+  border-bottom-color: #265fb4;
+}
+
+.wd-image-text h4:after, .wd-title-element:after {
+  background-color: #265fb4 !important;
+}
+
+.blog-info .arrow {
+  border-color: transparent #265fb4;
+}
+
+.primary-color_color, h1, h2, h3, h4, h5, h6, .layout-4 .box-container h3.box-title-4, .wd-title-element, .wd-image-text h4, a, a:focus, a.active, a:active, a:hover, section.corporate .menu-item a i,
+.box-container:hover .box-title, .blog-posts i, div.boxes.small.layout-3 .box-icon i {
+  color: #265fb4;
+}
+
+.boxes.small.layout-3 .box-icon i,
+div.boxes.small.layout-3:hover .box-icon i {
+  color: rgba(255, 255, 255, 1);
+}
+
+.request-quote.right {
+  color: #265fb4;
+}
+
+.corporate-layout .top-bar-section ul.menu > li > a,
+.creative-layout .top-bar-section ul li > a {
+  color: #000;
+}
+
+.contain-to-grid.sticky .top-bar-section .menu-menu-container ul {
+  background-color: #FFF;
+}
+
+.l-footer {
+  background-color: #1e1e1e
+}
+
+light .blog-info .arrow {
+  border-left-color: #265fb4;
+}
+
+.ui-accordion-header-active, .ui-tabs-active, .box-icon {
+  border-top-color: #265fb4
+}
+
+
